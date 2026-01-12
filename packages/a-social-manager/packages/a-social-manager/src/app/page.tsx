@@ -36,9 +36,6 @@ export default function Landing() {
 
   return (
     <div className="relative min-h-screen w-full overflow-x-hidden bg-gradient-to-br from-slate-950 via-purple-950 to-slate-950 text-white">
-      {/* Animated background */}
-      <div className="absolute inset-0 bg-aurora-layer-1" />
-      <div className="absolute inset-0 bg-aurora-layer-2" />
       
       {/* Navigation */}
       <nav className="relative z-50 flex items-center justify-between px-6 md:px-12 py-6">
@@ -152,4 +149,5 @@ export default function Landing() {
     </div>
   );
 }
+
 
