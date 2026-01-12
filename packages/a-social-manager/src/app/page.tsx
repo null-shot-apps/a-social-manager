@@ -46,7 +46,7 @@ export default function Landing() {
           Web3 Social
         </div>
         <button className="px-6 py-2 bg-purple-600 hover:bg-purple-700 rounded-full font-medium transition-colors">
-          Let's Talk
+          Let&apos;s Talk
         </button>
       </nav>
 
@@ -128,7 +128,7 @@ export default function Landing() {
             Ready to Grow Your Web3 Community?
           </h2>
           <p className="text-xl text-gray-300 mb-8">
-            Let's discuss how I can help your project reach the next level.
+            Let&apos;s discuss how I can help your project reach the next level.
           </p>
           <button className="px-12 py-5 bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 rounded-full font-bold text-xl transition-all transform hover:scale-105">
             Book a Consultation
