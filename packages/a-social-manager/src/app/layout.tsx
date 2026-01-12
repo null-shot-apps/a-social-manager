@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Build anything from a chat",
-  description: "Turn chats into apps. Prompt. Ship. Repeat.",
+  title: "Web3 Social Media Manager | Grow Your Community",
+  description: "Expert social media management for Web3 projects. Community growth, content strategy, and campaign management for DeFi, NFTs, and blockchain projects.",
 };
 
 export default function RootLayout({
@@ -32,3 +32,4 @@ export default function RootLayout({
     </html>
   );
 }
+
